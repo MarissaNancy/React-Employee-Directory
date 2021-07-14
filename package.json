@@ -1,0 +1,28 @@
+{
+  "name": "React-Employee-Directory",
+  "version": "1.0.0",
+  "description": "For this homework assignment we will be creating an employee directory with React. In doing this we will help a employee or manager so that they can view non-sensitive data about other employees. We will be filtering employees by name so that employee information is easily attainable.",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "init": "^0.1.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-router-dom": "^5.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarissaNancy/React-Employee-Directory.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarissaNancy/React-Employee-Directory/issues"
+  },
+  "homepage": "https://github.com/MarissaNancy/React-Employee-Directory#readme"
+}

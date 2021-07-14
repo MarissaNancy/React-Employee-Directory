@@ -7,6 +7,7 @@ For this homework assignment we will be creating an employee directory with Reac
 As a user, I want to be able to view the entire employee directory at once so that I can have quick access to their information.
 
 ## Acceptance Criteria
+Given a table of random users generated from the [Random User API](https://randomuser.me/), when the user loads the page, a table of employees should render. 
 Given when the user can sort employee table by at least one category
 Given when the user can filter employee list by at least one property.
 

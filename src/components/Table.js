@@ -1,4 +1,5 @@
 import React from "react";
+import DataContent from "./DataContent"
 
 function Table({ headings, users, handleSort }) {
   return (
@@ -24,7 +25,7 @@ function Table({ headings, users, handleSort }) {
           </tr>
         </thead>
 
-        <DataBody users={users} />
+        <DataContent users={users} />
       </table>
     </div>
   );
